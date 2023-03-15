@@ -131,3 +131,8 @@ dmypy.json
 local_*
 
 saved_model
+
+ecommerce_scraper
+
+bert_model
+saved_model
